@@ -32,10 +32,10 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-I'm an **M.Tech CSE student at Lovely Professional University** (CGPA: 8.67; Top 5%), building on a strong foundation with a **B.Tech in Computer Science** (CGPA: 8.57). With a research-driven mindset and **two IEEE publications** on cloud API security and lightweight cryptography for federated learning, I analyze complex challenges and write clean, efficient code.
+I'm an **M.Tech CSE student at Lovely Professional University** (CGPA: 8.76; Top 5%), building on a strong foundation with a **B.Tech in Computer Science** (CGPA: 8.57). With a research-driven mindset and **two IEEE publications** on cloud API security and lightweight cryptography for federated learning, I analyze complex challenges and write clean, efficient code.
 
 ### 👨🏼‍🎓 Academic Excellence & Research
-- **M.Tech CSE** - Lovely Professional University (8.67 CGPA, Top 5%)
+- **M.Tech CSE** - Lovely Professional University (8.76 CGPA, Top 5%)
 - **B.Tech Computer Science** - (8.57 CGPA)
 - **2 IEEE Publications** - Cloud API Security & Federated Learning
 - **Research Focus** - Security, Cryptography, and AI/ML Systems
